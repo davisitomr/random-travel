@@ -1,0 +1,23 @@
+{
+  "name": "09-random-travel",
+  "version": "1.0.0",
+  "description": "F5's team project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "npx sass --watch ./sass/styles.scss:./css/styles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davisitomr/random-travel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davisitomr/random-travel/issues"
+  },
+  "homepage": "https://github.com/davisitomr/random-travel#readme",
+  "devDependencies": {
+    "sass": "^1.56.1"
+  }
+}
